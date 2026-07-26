@@ -35,4 +35,4 @@ for url in URLS:
     print(f"Price : Rs. {price:.2f}")
     print(f"Image : {img_url}")
     print(f"Status: {status} (Target: Rs. {TARGET_PRICE})")
-    print("-" * 
+    print("-" * 50)
