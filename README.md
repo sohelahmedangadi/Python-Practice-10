@@ -102,3 +102,6 @@ SEARCH_URL = "https://www.amazon.in/s?k=python+programming+books"
   request to reduce bot-detection.
 - Prices shown are in **Indian Rupees (₹)** as scraped from `amazon.in`.
 
+
+
+thanks 
